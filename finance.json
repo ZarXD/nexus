@@ -11,6 +11,7 @@
     "date": "2026-01-05",
     "desc": "Jajan",
     "amount": 15000,
-    "type": "expense"
+    "type": "expense",
+    "category": "Makanan & Minuman"
   }
 ]
