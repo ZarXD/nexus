@@ -4,7 +4,8 @@
     "date": "2026-01-05",
     "desc": "Uang Jajan",
     "amount": 50000,
-    "type": "income"
+    "type": "income",
+    "category": "Lainnya"
   },
   {
     "id": 1767612058419,
