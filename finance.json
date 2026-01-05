@@ -5,5 +5,12 @@
     "desc": "Uang Jajan",
     "amount": 50000,
     "type": "income"
+  },
+  {
+    "id": 1767612058419,
+    "date": "2026-01-05",
+    "desc": "Jajan",
+    "amount": 15000,
+    "type": "expense"
   }
 ]
